@@ -1,0 +1,16 @@
+Classify the following customer support tickets into one of the categories: 'Billing Issue', 'Technical Problem', or 'General Inquiry'.
+
+Ticket: I was charged twice for my subscription this month.
+Category: Billing Issue
+
+Ticket: The app crashes every time I try to log in.
+Category: Technical Problem
+
+Ticket: Can you explain how to upgrade my plan?
+Category: General Inquiry
+
+Ticket: I need a refund for a payment I didn’t authorize.
+Category: Billing Issue
+
+Ticket: I am unable to connect to the internet using your service.
+Category: Technical Problem
