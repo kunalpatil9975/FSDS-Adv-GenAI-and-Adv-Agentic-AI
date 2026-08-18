@@ -1,0 +1,21 @@
+# Core Data Science
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Utilities
+tqdm
+pyyaml
+python-dotenv

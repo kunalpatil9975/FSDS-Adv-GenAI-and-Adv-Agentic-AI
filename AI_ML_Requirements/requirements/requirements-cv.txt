@@ -1,0 +1,14 @@
+# Computer Vision
+opencv-python
+Pillow
+scikit-image
+
+# Object Detection / YOLO
+ultralytics
+
+# Media Processing
+mediapipe
+
+# Deep Learning Backend
+torch
+torchvision

@@ -1,0 +1,38 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-huggingface
+
+# LangSmith
+langsmith
+
+# LLM APIs
+openai
+
+# Hugging Face
+transformers
+huggingface-hub
+sentence-transformers
+
+# Embeddings / Tokenization
+tiktoken
+tokenizers
+
+# Vector Databases
+faiss-cpu
+chromadb
+pinecone
+
+# RAG / Documents
+pypdf
+python-docx
+openpyxl
+beautifulsoup4
+lxml
+
+# API
+requests
+httpx

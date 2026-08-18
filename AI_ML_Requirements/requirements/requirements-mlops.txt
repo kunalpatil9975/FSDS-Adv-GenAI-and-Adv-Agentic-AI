@@ -1,0 +1,40 @@
+# Experiment Tracking
+mlflow
+wandb
+
+# Data / Model Versioning
+dvc
+dagshub
+
+# API / Model Serving
+fastapi
+uvicorn
+flask
+
+# Validation
+pydantic
+
+# Deployment / UI
+streamlit
+gradio
+
+# Database
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# Configuration
+python-dotenv
+pyyaml
+
+# Testing
+pytest
+
+# Code Quality
+black
+flake8
+
+# Utilities
+requests
+httpx
+tqdm

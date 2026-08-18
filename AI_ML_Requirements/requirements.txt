@@ -1,0 +1,6 @@
+# Complete AI/ML Project Environment
+-r requirements/requirements-ml.txt
+-r requirements/requirements-dl.txt
+-r requirements/requirements-cv.txt
+-r requirements/requirements-genai.txt
+-r requirements/requirements-mlops.txt

@@ -1,0 +1,29 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# Hugging Face
+transformers
+tokenizers
+datasets
+accelerate
+huggingface-hub
+
+# Embeddings
+sentence-transformers
+
+# Scientific Computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+pyyaml

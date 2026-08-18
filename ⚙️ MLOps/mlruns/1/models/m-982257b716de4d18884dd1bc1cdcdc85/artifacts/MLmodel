@@ -1,0 +1,23 @@
+artifact_path: file:c:/kunal/GIthub/FSDS-Adv-GenAI-and-Adv-Agentic-AI/MLops/mlruns/1/models/m-982257b716de4d18884dd1bc1cdcdc85/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.15.1
+model_id: m-982257b716de4d18884dd1bc1cdcdc85
+model_size_bytes: 9533
+model_uuid: m-982257b716de4d18884dd1bc1cdcdc85
+prompts: null
+run_id: 51ef0affe2704968bd8bc753ea86d150
+utc_time_created: '2026-08-12 03:26:28.505138'
